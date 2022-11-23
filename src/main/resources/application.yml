@@ -5,7 +5,7 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://ec2-15-164-179-84.ap-northeast-2.compute.amazonaws.com/likelion
+    url: jdbc:mysql://ec2-15-164-179-84.ap-northeast-2.compute.amazonaws.com/likelionjoin
     username: root
     password: 12345678
 
